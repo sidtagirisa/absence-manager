@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node -r @babel/register -r ./src/index.js",
     "test": "jest",
+    "test:watch": "npm run test -- --watch",
     "precover": "rm -rf coverage",
     "cover": "jest --coverage --collectCoverageFrom=src/**/*.js",
     "postcover": "cp coverage/coverage-final.json coverage/coverage.json"
