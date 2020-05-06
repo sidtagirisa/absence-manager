@@ -13,6 +13,22 @@ Versions used while programming: `node v12.7.0 (npm v6.10.0)`
 
 `npm run cover`
 
+Current Coverage:
+
+| File                   | % Stmts | % Branch | % Funcs | % Lines |
+| ---------------------- | ------- | -------- | ------- | ------- |
+| All files              | 100     | 100      | 100     | 100     |
+| controllers            | 100     | 100      | 100     | 100     |
+| absences.controller.js | 100     | 100      | 100     | 100     |
+| services               | 100     | 100      | 100     | 100     |
+| absences.service.js    | 100     | 100      | 100     | 100     |
+| export.service.js      | 100     | 100      | 100     | 100     |
+| members.service.js     | 100     | 100      | 100     | 100     |
+| utils                  | 100     | 100      | 100     | 100     |
+| readJsonFile.util.js   | 100     | 100      | 100     | 100     |
+| transformer.js         | 100     | 100      | 100     | 100     |
+
+
 ## Configurations Used
 
 1. ExpressJs v4.17.1
