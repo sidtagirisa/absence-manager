@@ -32,6 +32,7 @@ module.exports = {
     '/src/index.js',
     '/src/router.js',
     '/src/server.js',
+    'src/config/index.js',
   ],
 
   // A list of reporter names that Jest uses when writing coverage reports
