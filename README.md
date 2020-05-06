@@ -22,4 +22,5 @@ that I can import them into outlook.
 - (Bonus) I can go to http://localhost:3000?startDate=2017-01-01&endDate=2017-02-01 and only receive the absences in the given date range
 - (Bonus) Build the first 4 acceptance criteria in the other language (for backend candidates in js and for frontend candidates in ruby)
 
-Please find README inside of server folder for more details about code.
+Please find README inside of server folder for more details about  server code.
+Please find README inside of client folder for more details about client code.
